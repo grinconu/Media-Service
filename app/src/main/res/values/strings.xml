@@ -1,0 +1,5 @@
+<resources>
+    <string name="channel_name">Test Notification</string>
+    <string name="channel_description">Media Notification</string>
+    <string name="app_name">Media Service Test</string>
+</resources>
